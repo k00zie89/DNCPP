@@ -1,0 +1,4 @@
+Sean Jeff Halfling Paladin AssumedNeutral 68 17 25
+Brad Heiron Elf Monk LawfulNeutral 80 20 45
+Amanda Bree Halfling Bard AssumedNeutral 51 15 25
+Brian HughMann LizardFolk Wizard NeutralNeutral 52 15 30
